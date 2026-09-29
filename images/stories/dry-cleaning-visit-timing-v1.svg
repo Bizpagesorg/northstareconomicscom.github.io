@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<title>Dry-cleaning orders shifted to later periods</title>
+<defs><g id="order"><rect x="-48" y="-70" width="96" height="126" rx="13" fill="#fff" stroke="currentColor" stroke-width="4"/><path d="M-15-40 -34-24 -24-5 -14-12 -14 32 14 32 14-12 24-5 34-24 15-40 0-29Z" fill="currentColor"/><circle cy="45" r="3" fill="currentColor"/></g><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#536878"/></marker></defs>
+<rect width="1200" height="675" fill="#e4eceb"/><rect x="145" y="100" width="960" height="435" rx="22" fill="#f6f8f5"/>
+<g stroke="#c0cfcd" stroke-width="2"><path d="M385 100V535M625 100V535M865 100V535"/><path d="M145 317H1105"/></g>
+<g font-family="sans-serif" font-size="42" font-weight="700" fill="#203b48"><text x="63" y="228">A</text><text x="63" y="449">B</text></g>
+<g color="#286b72"><use href="#order" x="265" y="215"/><use href="#order" x="505" y="215"/><use href="#order" x="745" y="215"/></g>
+<g color="#976235"><use href="#order" x="505" y="433"/><use href="#order" x="745" y="433"/><use href="#order" x="985" y="433"/></g>
+<path d="M165 589H1090" stroke="#536878" stroke-width="5" marker-end="url(#arrow)"/>
+</svg>

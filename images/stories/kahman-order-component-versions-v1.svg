@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Order-specific component versions</title>
+<desc id="desc">Separate records connect order A to version I and order B to version II; a decision record separates their applicability.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#b8dcd7"/></marker></defs>
+<rect width="1200" height="675" rx="20" fill="#142e38"/>
+<g fill="none" stroke="#b8dcd7" stroke-width="5" marker-end="url(#arrow)"><path d="M330 192H824"/><path d="M330 483H824"/></g>
+<g fill="#f2e8cf" stroke="#d0bea0" stroke-width="3"><rect x="110" y="80" width="220" height="220" rx="12"/><rect x="110" y="373" width="220" height="220" rx="12"/></g>
+<g stroke="#a7987e" stroke-width="9"><path d="M150 220H283M150 250H260M150 510H283M150 540H260"/></g>
+<g font-family="sans-serif" font-size="64" font-weight="700" fill="#223e45" text-anchor="middle"><text x="220" y="174">A</text><text x="220" y="467">B</text></g>
+<g stroke="#79c9b6" stroke-width="4" fill="#254e55"><rect x="843" y="80" width="247" height="220" rx="18"/><rect x="843" y="373" width="247" height="220" rx="18"/></g>
+<g fill="#d7e4e4" stroke="#8badaf" stroke-width="5"><path d="M890 150H973V183H1016V239H890Z"/><path d="M890 443H973V476H1016V532H890Z"/></g>
+<g fill="#254e55"><circle cx="918" cy="210" r="12"/><circle cx="988" cy="210" r="12"/><circle cx="918" cy="503" r="12"/><circle cx="988" cy="503" r="12"/></g>
+<g fill="#f2e8cf" font-family="sans-serif" font-size="29" text-anchor="middle"><text x="963" y="123">I</text><text x="963" y="416">II</text></g>
+<path d="M385 337H815" stroke="#b98e56" stroke-width="3" stroke-dasharray="9 9"/>
+<rect x="525" y="264" width="150" height="146" rx="12" fill="#d3a66c" stroke="#f2d4a8" stroke-width="3"/>
+<g stroke="#483c2a" stroke-width="7" fill="none"><path d="M555 294H645M555 319H624M555 344H618M568 376L582 389L626 356"/></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#eee9e0"/>
+<g font-family="Arial,sans-serif" fill="#183342" text-anchor="middle">
+<text x="600" y="57" font-size="32">Compare what the renovation offer includes</text>
+<text x="600" y="98" font-size="28">Сравнивать состав предложения по ремонту</text>
+<rect x="60" y="140" width="1080" height="385" rx="12" fill="white"/>
+<path d="M60 225H1140M60 325H1140M60 425H1140M420 140V525M780 140V525" stroke="#bbc8cb" stroke-width="2"/>
+<g font-size="27"><text x="240" y="191">Scope / Состав</text><text x="600" y="191">A / А</text><text x="960" y="191">B / Б</text></g>
+<g font-size="24"><text x="240" y="267">Specified labour</text><text x="240" y="300">Определённые работы</text><text x="240" y="367">Material supply</text><text x="240" y="400">Закупка материалов</text><text x="240" y="467">Material delivery</text><text x="240" y="500">Доставка материалов</text></g>
+<g fill="#236555" font-size="24"><text x="600" y="267">Included</text><text x="600" y="300">Включено</text><text x="960" y="267">Included</text><text x="960" y="300">Включено</text><text x="600" y="367">Included</text><text x="600" y="400">Включено</text><text x="600" y="467">Included</text><text x="600" y="500">Включено</text></g>
+<g fill="#825b2c" font-size="23"><text x="960" y="367">Customer arranges</text><text x="960" y="400">Организует заказчик</text><text x="960" y="467">Customer arranges</text><text x="960" y="500">Организует заказчик</text></g>
+<g font-size="25"><text x="600" y="582">Different inclusions are not identical purchases</text><text x="600" y="623">Разный состав — разные покупки</text></g>
+</g></svg>

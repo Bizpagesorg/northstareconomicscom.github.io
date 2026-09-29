@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Export value and shipment quantity</title><desc id="d">Separate trade records show a monetary symbol and a shipping carton, distinguishing export value from physical quantity without numerical measurements.</desc>
+<rect width="1200" height="675" rx="22" fill="#233746"/>
+<path d="M600 115V560" stroke="#6d8694" stroke-width="3" stroke-dasharray="10 12"/>
+<g fill="#f0e5cc" stroke="#c6bda5" stroke-width="4"><rect x="115" y="110" width="370" height="455" rx="18"/><rect x="715" y="110" width="370" height="455" rx="18"/></g>
+<g stroke="#a3967d" stroke-width="10" stroke-linecap="round"><path d="M170 453H430M170 490H376M770 453H1030M770 490H976"/></g>
+<circle cx="300" cy="275" r="106" fill="#9e7040"/><circle cx="300" cy="275" r="86" fill="none" stroke="#edca82" stroke-width="5"/>
+<text x="300" y="297" font-family="sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#fff1d2">RM</text>
+<path d="M787 228L899 175L1013 228V350L899 403L787 350Z" fill="#89b6b2" stroke="#365e66" stroke-width="5" stroke-linejoin="round"/>
+<path d="M787 228L899 281L1013 228M899 281V403M844 201L958 254V296" stroke="#365e66" fill="none" stroke-width="5"/>
+</svg>

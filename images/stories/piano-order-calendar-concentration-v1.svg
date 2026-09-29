@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Piano orders distributed across time or concentrated in one period</title><desc id="d">Calendar A spreads six order cards across three periods. Calendar B places the same six cards in the middle period. Cards are illustrative, not measured factory orders.</desc>
+<defs><g id="card"><rect width="90" height="58" rx="7" fill="#ead3a7"/><path d="M18 20H72M18 34H62M18 46H47" stroke="#896644" stroke-width="5"/></g></defs>
+<rect width="1200" height="675" rx="22" fill="#193642"/>
+<g fill="#274b56" stroke="#6f9297" stroke-width="2"><rect x="180" y="83" width="930" height="225" rx="12"/><rect x="180" y="365" width="930" height="225" rx="12"/></g>
+<g stroke="#6f9297" stroke-width="2"><path d="M490 83V308M800 83V308M490 365V590M800 365V590"/></g>
+<g font-family="sans-serif" font-size="49" font-weight="700" fill="#dceae8" text-anchor="middle"><text x="102" y="213">A</text><text x="102" y="498">B</text></g>
+<use href="#card" x="225" y="162"/><use href="#card" x="352" y="162"/>
+<use href="#card" x="535" y="162"/><use href="#card" x="662" y="162"/>
+<use href="#card" x="845" y="162"/><use href="#card" x="972" y="162"/>
+<use href="#card" x="535" y="383"/><use href="#card" x="662" y="383"/>
+<use href="#card" x="535" y="447"/><use href="#card" x="662" y="447"/>
+<use href="#card" x="535" y="511"/><use href="#card" x="662" y="511"/>
+<path d="M180 625H1103L1090 615M1103 625L1090 635" fill="none" stroke="#c0d5d3" stroke-width="4"/>
+</svg>
