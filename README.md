@@ -1,2 +1,2 @@
 # northstareconomicscom.github.io
-Rep for northstareconomics.com
+Repository for https://northstareconomics.com
