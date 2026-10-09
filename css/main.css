@@ -113,3 +113,8 @@
 .shell>.latest-materials{width:100%;max-width:none;margin:0 0 60px;padding-top:32px;border-color:var(--line)}
 @media(max-width:950px){.material-type{padding:20px}.material-type h3{font-size:24px}}
 @media(max-width:620px){.material-types{margin-top:28px}.material-type{padding:20px}.material-types .section-head h2{font-size:27px}.shell>.latest-materials{margin-bottom:40px}.coverage-topics a{padding:9px 12px;gap:12px}}
+
+/* Editorial links and image captions. */
+main p a {color:#176d83;text-decoration:underline;text-underline-offset:3px}
+main figure figcaption {font-size:12px!important;line-height:1.45;margin:8px 0 0!important;padding:0!important}
+main figure img {display:block}

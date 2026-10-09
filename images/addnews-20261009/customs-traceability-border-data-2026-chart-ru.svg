@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#ece8df"/>
+<text x="70" y="72" font-family="DejaVu Sans,Arial,sans-serif" font-size="32" font-weight="bold" fill="#2d1735">Срок сертификации Эквадор 2023</text>
+<text x="70" y="113" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#61566a">часы</text>
+<line x1="150" y1="535.0" x2="1100" y2="535.0" stroke="#756b78" stroke-width="2"/>
+<rect x="170.0" y="239.3478260869565" width="155" height="295.6521739130435" fill="#6b3685"/>
+<text x="247.5" y="223.3478260869565" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="bold" fill="#2d1735">72</text>
+<text x="247.5" y="595" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#2d1735">До</text>
+<rect x="620.0" y="530.8937198067633" width="155" height="4.106280193236671" fill="#6b3685"/>
+<text x="697.5" y="514.8937198067633" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="bold" fill="#2d1735">1</text>
+<text x="697.5" y="595" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#2d1735">После</text>
+</svg>
